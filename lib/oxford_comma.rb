@@ -6,4 +6,4 @@ def oxford_comma(array)
   end
 end
 
-names = ["Susy", "Johan", "Timothy", "Lina"]
+names = ["Susy", "Johan", "Lina"]
