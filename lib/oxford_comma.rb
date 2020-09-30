@@ -7,3 +7,5 @@ def oxford_comma(array)
 end
 
 names = ["Susy", "Johan", "Lina"]
+
+puts oxford_comma(names)
